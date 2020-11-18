@@ -22,11 +22,6 @@ mongoose.connect(process.env.MONGODB_URI || "mongodb://localhost/workout", {
     useFindAndModify: false
 });
 
-// db.Workout.create({}).then(dbWorkout => {
-//   console.log(dbWorkout)
-// }).catch(({ err }) => {
-//   console.log(err)
-// })
 
 app.use(require("./routes/api-routes.js"));
 app.use(require("./routes/html-routes.js"));
