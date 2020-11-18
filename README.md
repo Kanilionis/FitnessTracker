@@ -18,9 +18,9 @@
   ## Usage
   #### Play video to see deployed app: https://drive.google.com/file/d/1pRgazbBGN4q9eXxEc3iH-xDpCzJOU8wt/view
   #### Try it for yourself on Heroku: https://kafitnesstracker.herokuapp.com/stats
-  <img src="../create.png" height="200px">
-  <img src="../lastworkout.png" height="200px">
-  <img src="../stats.png" height="200px">
+  <img src="create.png" height="200px">
+  <img src="lastworkout.png" height="200px">
+  <img src="stats.png" height="200px">
 
   ## License
   #### This project is licensed under the MIT license.
